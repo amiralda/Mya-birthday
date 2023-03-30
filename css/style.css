@@ -1,16 +1,15 @@
 /* 
 
-Project Name: Cookie Monster 
-Client: Cookie Monster
-Author: Chris Castiglione  
-Developed @ One Month in NYC
+Project Name: Mya's Birthday 
+Client: Lourdesmia
+Developed: @amiralda
 
 */
 
 html {
 	/* set up a background image */
-
-	background: url('../images/Mya-Pic1.jpeg') no-repeat;
+	background-color: rgb(177, 173, 173);
+	background: url('../images/happybirthday7.png') no-repeat;
 
 
 	/* the follow is the code to have the image display as a full page */
@@ -24,6 +23,12 @@ html {
 
 }
 
+/* div {
+	display: grid;
+	justify-content: center;
+	align-items: center;
+
+} */
 
 h1 {
 	font-size: 70px;
@@ -32,12 +37,12 @@ h1 {
 h2 {
 	width: fit-content;
 	padding: 5px;
-	color: rgba(227, 219, 219, 0.69);
+	color: rgb(250, 248, 248);
 }
 
 h3 {
 	color: #35C0F2;
-	background: pink;
+	background: rgba(42, 41, 41, 0.411);
 	width: fit-content;
 	padding: 5px;
 	border-radius: 10px;
@@ -58,8 +63,9 @@ button {
 }
 
 #container {
-	background: rgba(133, 167, 182, 0.616);
+	background: rgba(79, 75, 96, 0.753);
 	width: 440px;
-	color: pink;
+	color: rgb(246, 245, 245);
 	padding: 35px;
+	text-align: justify;
 }
