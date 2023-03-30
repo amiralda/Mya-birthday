@@ -79,7 +79,7 @@ button:hover {
 @media screen and (max-width: 769px) {
 	#container {
 		height: auto;
-		width: 100%;
+		width: auto;
 		padding: auto;
 	}
 }
